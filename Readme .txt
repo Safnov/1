@@ -114,8 +114,7 @@ Citation
 
 If you use this code or results in your research, please cite our manuscript:
 
-    [Manuscript reference – to be added]
-
+ 
 License
 
 This project is licensed under the MIT License – see the LICENSE file for details.
