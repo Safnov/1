@@ -38,7 +38,7 @@ Installation & Dependencies
 1. Clone the repository
 bash
 
-git clone https://github.com/yourusername/SAP_Prediction.git
+git clone https://github.com/safnov/1.git
 cd SAP_Prediction
 
 2. Create a virtual environment (recommended)
@@ -113,8 +113,6 @@ Note: The data file is not included in this repository due to institutional priv
 Citation
 
 If you use this code or results in your research, please cite our manuscript:
-
-    [Manuscript reference – to be added]
 
 License
 
